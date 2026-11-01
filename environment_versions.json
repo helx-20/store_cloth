@@ -1,0 +1,23 @@
+{
+  "ImageIO": "2.38.1",
+  "contourpy": "1.4.0",
+  "cycler": "0.12.1",
+  "fast_simplification": "0.2.0",
+  "fonttools": "4.67.0",
+  "imageio-ffmpeg": "0.6.0",
+  "kiwisolver": "1.5.1",
+  "matplotlib": "3.11.2",
+  "newton": "1.7.0",
+  "numpy": "2.5.4",
+  "packaging": "26.3",
+  "pillow": "13.0.0",
+  "pip": "26.2.1",
+  "pyparsing": "3.3.3",
+  "python-dateutil": "2.9.0.post0",
+  "setuptools": "84.0.0",
+  "six": "1.17.0",
+  "tetgen": "0.8.4",
+  "usd-core": "26.8",
+  "warp-lang": "1.18.0",
+  "wheel": "0.48.0"
+}

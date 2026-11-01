@@ -1,0 +1,12 @@
+{
+  "asset_sha": "be38af73c6c74ba01a509d821a2ca0f381b22811c2bf449f75d18e2a7e9e1641",
+  "prior_sha": "b9998661aee10af3aa0720e4f082aa57bcd403fa28f6010d829dc0d5c0ec8468",
+  "input_sha": "0c175986955791ff84c6d49d0499595a6a3d39af7797631d360b0cfc523b06c7",
+  "local_top_m": 0.017887501046061516,
+  "release_gap_m": 0.04999999888241291,
+  "global_vertical_separation_m": 0.04999999701976776,
+  "clipped_lower_triangles": 3851,
+  "lower_q_v_exact": true,
+  "include_bending_verified": true,
+  "limitations": "Local top from all lower triangles clipped to convex hull envelope of upper footprint (conservative envelope, not concave exact footprint). Global vertical separation additionally proves intergarment triangle separation at insertion only. No new samecloth certificate."
+}

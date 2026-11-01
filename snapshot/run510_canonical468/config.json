@@ -1,0 +1,41 @@
+{
+  "config": {
+    "tri_ke": 10000.0,
+    "tri_kd": 0.25,
+    "edge_ke": 0.003,
+    "edge_kd": 0.0006,
+    "radius": 0.00015,
+    "substeps": 4,
+    "iterations": 8,
+    "frames": 120,
+    "release_height": 0.05,
+    "rigid_soft_dat": true,
+    "rigid_soft_log_barrier": true,
+    "static_table": true,
+    "full_surface_contact": true,
+    "self_margin": 0.0003,
+    "self_gap": 0.003,
+    "rigid_gap": 0.004,
+    "detect_every_iteration": false,
+    "detect_every_n_iterations": 4,
+    "contact_matching": "latest",
+    "bend_relaxation_time_s": 0.2,
+    "fold_edge_kd": 6e-05,
+    "fold_edge_ke": 0.0003,
+    "fold_rest_angle_threshold_rad": 0.1,
+    "topology_filter_rings": 0,
+    "edge_parallel_epsilon": 1e-10,
+    "vertex_buffer": 1024,
+    "edge_buffer": 2048,
+    "include_bending_in_coloring": true
+  },
+  "delta": {
+    "items": 3,
+    "exact_duplicate_contact_canonicalization": true
+  },
+  "input_sha": "ebb3c2681a106b4098ae933e7445da6525d36599ac65d9290497c4cb0bfcea7d",
+  "input_frame": 120,
+  "script_sha": "4b61f503d7eaa777d080960d3930f2ece212185bc4992a08fd2fd2030c5cb0cd",
+  "builder_sha": "de62998bb7fccd3fe46c2bd934815c9ce166bb4189788dbd0e1c82e1770cfffa",
+  "policy": "Continue all three garments from exact468 final q/v for2s; no new garment,no velocity reset,no freezing. This is additional observation, not a stability guarantee. Config unchanged. Solver internal history rebuilt, not restored. SharedGPU1; not exclusive timing."
+}

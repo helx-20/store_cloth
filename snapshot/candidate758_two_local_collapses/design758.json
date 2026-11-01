@@ -1,0 +1,40 @@
+{
+  "parent_sha": "5f0eb353aa6f541dcfe618309173be7afbf6758367de7e87875fa705ad5923cd",
+  "asset_sha": "be38af73c6c74ba01a509d821a2ca0f381b22811c2bf449f75d18e2a7e9e1641",
+  "script_sha": "04d7630185a7ba3d0957d9bc74e5247b9ba551e4e9d597dc8169961c346ffb67",
+  "operations": [
+    {
+      "kept_old_vertex": 1905,
+      "removed_old_vertex": 1906,
+      "parent": 182,
+      "max_all_state_edge_m": 0.001175960563348807,
+      "source_parent_area_error_m2": 0.0
+    },
+    {
+      "kept_old_vertex": 1912,
+      "removed_old_vertex": 1913,
+      "parent": 184,
+      "max_all_state_edge_m": 0.0014548751653623397,
+      "source_parent_area_error_m2": 0.0
+    }
+  ],
+  "vertices": 2188,
+  "faces": 4232,
+  "topology": {
+    "vertices": 2188,
+    "faces": 4232,
+    "boundary_edges": 142,
+    "boundary_components": [
+      142
+    ],
+    "boundary_branch_vertices": 0,
+    "nonmanifold_edges": 0,
+    "euler": 1
+  },
+  "nonshared_transverse_pairs": 0,
+  "mass_kg": 0.18463328627365172,
+  "max_base_mass_error": 2.710505431213761e-19,
+  "loop_wall_s": 3.0500237522646785,
+  "rss_kib": 75916,
+  "limitations": "Two explicitly selected existing-edge collapses only, not global threshold relaxation. Static final transverse and changed-patch finite gap guard; full finite gap audit and input visual pending. No new dynamics; current729/738/746 remains demo."
+}

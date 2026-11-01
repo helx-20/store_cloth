@@ -1,0 +1,27 @@
+{
+  "asset_sha": "be38af73c6c74ba01a509d821a2ca0f381b22811c2bf449f75d18e2a7e9e1641",
+  "script_sha": "1535928d1fd1e9952b4bc2565c14dc0a9356a35e5d5098d2b0ad3c28f19cd935",
+  "threshold_m": 0.0006,
+  "candidate_pairs": 16826,
+  "violating_pairs": 2,
+  "min_checked_gap_m": 0.0003268088299773429,
+  "first_pairs": [
+    [
+      3500,
+      3949,
+      0.0003268088299773429,
+      552,
+      602
+    ],
+    [
+      3500,
+      3951,
+      0.0003268088299773429,
+      552,
+      603
+    ]
+  ],
+  "wall_s": 5.3687197817489505,
+  "rss_kib": 70556,
+  "limitations": "All mesh triangle pairs screened by expanded AABB then six vertex-triangle and9edge-edge distances; endpoints covered by vertex-triangle distance. Shared vertices and source centroid separation<=3cm excluded: not full physical layer identity or CCD proof. Static unsigned distance only."
+}
